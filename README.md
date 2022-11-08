@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tamunokuro Blue-Jack
-- 👀 I’m interested in things related to python and django
-- 🌱 I’m currently learning Fast API and Django Rest Framework 
-- 💞️ I’m looking to collaborate on any Django and Python projects
-- 📫 How to reach me tamunokuroo21@gmail.com
+# 👋 Hello there, I’m Joshua
+> I'm currently a FullStack Web Development Studnet @ Microverse
+## Let's Connect!
+- Linked: [Joshua Blue-Jack](https://www.linkedin.com/in/joshua-blue-jack/)
+
 
 <!---
 Tamunokuro/Tamunokuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
