@@ -1,7 +1,7 @@
 # 👋 Hello there, I’m Joshua
 > I'm currently a FullStack Web Development Studnet @ Microverse
 ## Let's Connect!
-- Linked: [Joshua Blue-Jack](https://www.linkedin.com/in/joshua-blue-jack/)
+- LinkedIn: [Joshua Blue-Jack](https://www.linkedin.com/in/joshua-blue-jack/)
 
 
 
