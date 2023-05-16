@@ -1,6 +1,7 @@
   # 👋 Hello there, I’m Joshua
 - I am looking for exciting projects to contribute to using JavaScript, React, Python, Django, Ruby, Ruby on Rails.
 - Contact me: Twitter: [Twitter](https://twitter.com/tamuno____) or [LinkedIn](https://www.linkedin.com/in/joshua-blue-jack/)
+
 ![Tamunokuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamunokuro&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamunokuro&layout=compact&theme=radical)](https://github.com/tamunokuro/github-readme-stats)
 
