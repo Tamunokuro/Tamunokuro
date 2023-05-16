@@ -1,7 +1,6 @@
   # 👋 Hello there, I’m Joshua
 > I'm currently a FullStack Web Development Student @ Microverse
-## Let's Connect!
-- LinkedIn: [Joshua Blue-Jack](https://www.linkedin.com/in/joshua-blue-jack/)
+![Tamunokuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamunokuro&show_icons=true&theme=radical)
 
 
 
