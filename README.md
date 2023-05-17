@@ -1,5 +1,5 @@
   # 👋 Hello there, I’m Joshua
-- 👨🏾‍💻 I am looking for exciting projects to contribute to using JavaScript, React, Python, Django, Ruby, Ruby on Rails.
+- 👨🏾‍💻 I am looking for exciting projects to contribute to using JavaScript, React, Python, Django, Ruby and Ruby on Rails.
 - ✉️ Contact me: [Twitter](https://twitter.com/tamuno____) or [LinkedIn](https://www.linkedin.com/in/joshua-blue-jack/)
 - ✨ Improving projects one commit at a time 
 
