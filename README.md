@@ -7,7 +7,7 @@
 - ✉️ Contact me: [Twitter](https://twitter.com/tamuno____) or [LinkedIn](https://www.linkedin.com/in/joshua-blue-jack/)
 - ✨ Improving projects one commit at a time 
 
-#### 🧰 Languages and Tools
+### 🛠️ Languages and Tools
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 
