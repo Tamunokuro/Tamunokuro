@@ -1,4 +1,8 @@
   # 👋 Hello there, I’m Joshua
+  
+![Tamunokuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamunokuro&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamunokuro&layout=compact&theme=dark)](https://github.com/tamunokuro/github-readme-stats)
+
 - 👨🏾‍💻 I am looking for exciting projects to contribute to using JavaScript, React, Python, Django, Ruby and Ruby on Rails.
 - ✉️ Contact me: [Twitter](https://twitter.com/tamuno____) or [LinkedIn](https://www.linkedin.com/in/joshua-blue-jack/)
 - ✨ Improving projects one commit at a time 
@@ -15,8 +19,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img height=50                 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-![Tamunokuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamunokuro&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamunokuro&layout=compact&theme=dark)](https://github.com/tamunokuro/github-readme-stats)
 
 
 
