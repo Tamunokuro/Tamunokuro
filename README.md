@@ -17,7 +17,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wor
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img height=50                 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 
+<i class="devicon-github-original"></i>
 
 
 
