@@ -3,7 +3,7 @@
 ![Tamunokuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamunokuro&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamunokuro&layout=compact&theme=dark)](https://github.com/tamunokuro/github-readme-stats)
 
-- 👨🏾‍💻 I am open to contributing to projects using JavaScript, React, Python, Django and Django Rest Framework
+- 👨🏾‍💻 Open to contributing to projects using JavaScript, React, Python, Django and Django Rest Framework
 - ✉️ Contact me: LinkedIn](https://www.linkedin.com/in/joshua-blue-jack/)
 - ✨ Improving projects one commit at a time 
 
