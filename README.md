@@ -3,8 +3,8 @@
 ![Tamunokuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamunokuro&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamunokuro&layout=compact&theme=dark)](https://github.com/tamunokuro/github-readme-stats)
 
-- 👨🏾‍💻 I am looking for exciting projects to contribute to using JavaScript, React, Python, Django, Ruby and Ruby on Rails.
-- ✉️ Contact me: [Twitter](https://twitter.com/tamuno____) or [LinkedIn](https://www.linkedin.com/in/joshua-blue-jack/)
+- 👨🏾‍💻 I am open to contributing to projects using JavaScript, React, Python, Django and Django Rest Framework
+- ✉️ Contact me: LinkedIn](https://www.linkedin.com/in/joshua-blue-jack/)
 - ✨ Improving projects one commit at a time 
 
 ### 🛠️ Languages and Tools
